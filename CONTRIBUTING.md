@@ -1,24 +1,3 @@
-## Contributing
-
-[pr]: https://github.com/raise-dev/hacktoberfest/compare
-[style]: https://github.com/bbatsov/ruby-style-guide
-
-Hi there! We're thrilled that you'd like to contribute to Hacktoberfest. Your help is essential for keeping it great.
-
-Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
-
-## Opening an issue
-
-Thank you for taking the time to open an issue, your feedback helps make Hacktoberfest better.
-Before opening an issue, please be sure that your issue hasn't already been asked by using [GitHub search](https://help.github.com/articles/searching-issues/)
-
-Here are a few things that will help us help resolve your issues:
-
-- A descriptive title that gives an idea of what your issue refers to
-- A thorough description of the issue, (one word descriptions are very hard to understand)
-- Screenshots (if appropriate)
-- Links (if appropriate)
-
 ## Submitting a pull request
 
 0. Clone the repository
