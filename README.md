@@ -1,4 +1,4 @@
-# <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
+# <a> OnlineBookStore </a> 
 
 - User Login Credentials: (mahendra/mahendra)
 - Admin Login Credentials: (Admin/Admin)
